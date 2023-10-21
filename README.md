@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Tom. I do open-source!
+I'm Tom. I do open-source! **1.7K** stars on GitHub
 
 **About me**
 
 - 💼 working as a software engineer for self-driving
-- 📈 building open source LLM tools and more • **1.7K** stars on GitHub
+- 📈 building open source LLM tools and more
 
 [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=liltom-eth)](https://github.com/anuraghazra/github-readme-stats)
 
