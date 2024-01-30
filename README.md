@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tom. I do open-source! **1.7K** stars on GitHub
+I'm Tom. I do open-source! **1.9K** stars on GitHub
 
 **About me**
 
