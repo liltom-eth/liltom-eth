@@ -1,18 +1,18 @@
 ### Hi there 👋
-I'm Tom. I do open-source! **2K** stars on GitHub
+I'm Yuchuan(Tom) Gou. I do open-source! ![Total Stars](https://img.shields.io/github/stars/liltom-eth?label=Total%20Stars&style=flat-square)
 
 **About me**
 
-- 💼 working as a software engineer for self-driving
+- 💼 working as a Machine Learning Engineer for self-driving
 - 📈 building open source LLM tools and more
-
-[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=liltom-eth)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Repositories
 
-|<a href="https://github.com/liltom-eth/llama2-webui"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liltom-eth&repo=llama2-webui&theme=buefy" /></a>|<a href="https://github.com/liltom-eth/pi-pin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liltom-eth&repo=pi-pin&theme=buefy" /></a>|
-| --------------------------------------------- | --------------------------------------------- |
-|<a href="https://github.com/anymodality/anymodality"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anymodality&repo=anymodality&theme=buefy" /></a>||
+| Repository | Stars | Forks |
+|---|---|---|
+| [llama2-webui](https://github.com/liltom-eth/llama2-webui) | ![](https://img.shields.io/github/stars/liltom-eth/llama2-webui?style=social) | ![](https://img.shields.io/github/forks/liltom-eth/llama2-webui?style=social) |
+| [pi-pin](https://github.com/liltom-eth/pi-pin) | ![](https://img.shields.io/github/stars/liltom-eth/pi-pin?style=social) | ![](https://img.shields.io/github/forks/liltom-eth/pi-pin?style=social) |
+
 
 <br />
 <br />
@@ -20,4 +20,6 @@ I'm Tom. I do open-source! **2K** stars on GitHub
 <a href="https://twitter.com/liltom_eth">
   <img align="right" alt="liltom | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+
+
 
